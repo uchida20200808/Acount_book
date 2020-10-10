@@ -1,5 +1,4 @@
-# Uchy
-Account book
+# Account book
 This is a program that operate excel files to calcurate how much my family spent in a month.
 
 Use Money Manager application for smartphone, which is easy to note your account book.
