@@ -12,13 +12,13 @@ misa['payer'] = 'misa'
 credit = pd.read_excel('credit.xls')
 
 #Merge hiro ,misa and credit into a single file
-df = pd.concat([hiro,misa,credit])
+df = pd.concat([hiro, misa, credit])
 
 #Clean up the df(empty columns)
 df = df.dropna()
 
 #save the single file
-df.to_excel('merge_data.xls',index=False)
+df.to_excel('merge_data.xls', index=False)
 
 #How much did we pay and get money?
 get_df = df.loc[df['収入/支出'] == '収入']
