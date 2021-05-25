@@ -1,14 +1,16 @@
-# Account book
-This is a program that operate excel files to calcurate how much my family spent in a month.
+#家計簿の自動処理プログラム
+このプログラムはエクセル（拡張子.xls）で作成された家計簿を自動計算するものです。
+スマホのMoney Managerを使って家計簿をつけると良いでしょう。
 
-Use Money Manager application for smartphone, which is easy to note your account book.
-
+↓家計簿アプリは以下からダウンロードできます。
 https://play.google.com/store/apps/details?id=money.expense.budget.wallet.manager.track.finance.tracker&hl=ja
 
-Before use this program, some operations are needed.
+このプログラムを使用する前に必要な操作。
 
-1.Export your account book data as .xls file, and send it to PC.
+1.家計簿のデータをxlsファイル形式でエクスポートして自分のPCに移動させる。
 
-2.Get the family's data into a directory(this will be a work place).
+2.家族分の家計簿を1つのディレクトリに集める。
 
-3.Start running this program.
+3.プログラムを起動させる。
+
+プログラムの解説記事はこちら
