@@ -14,3 +14,4 @@ https://play.google.com/store/apps/details?id=money.expense.budget.wallet.manage
 3.プログラムを起動させる。
 
 プログラムの解説記事はこちら
+https://tsumawosettoku20200808.com/kakeibo-python/
